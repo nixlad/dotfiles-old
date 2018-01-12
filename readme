@@ -1,0 +1,22 @@
+I am using Arch Linux on a Thinkpad X230 with i3 window manager (gaps). Copy over your current configuration files to and restart.
+
+                   -`                 
+                  .o+`                 revanlaptop@revanlaptop
+                 `ooo/                 OS: Arch Linux 
+                `+oooo:                Kernel: x86_64 Linux 4.14.13-1-ARCH
+               `+oooooo:               Uptime: 5h 46m
+               -+oooooo+:              Packages: 1021
+             `/:-:++oooo+:             Shell: zsh 5.4.2
+            `/++++/+++++++:            Resolution: 1366x768
+           `/++++++++++++++:           WM: i3
+          `/+++ooooooooooooo/`         GTK Theme: Adapta-Nokto [GTK2/3]
+         ./ooosssso++osssssso+`        Icon Theme: Paper
+        .oossssso-````/ossssss+`       Font: Noto Sans Regular 10
+       -osssssso.      :ssssssso.      CPU: Intel Core i5-3320M @ 4x 3.3GHz [46.0°C]
+      :osssssss/        osssso+++.     GPU: intel
+     /ossssssss/        +ssssooo/-     RAM: 308MiB / 7680MiB
+   `/ossssso+/:-        -:/+osssso+-  
+  `+sso+:-`                 `.-/+oso: 
+ `++:.                           `-/+/
+ .`                                 `/
+
