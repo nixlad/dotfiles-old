@@ -17,7 +17,7 @@ rofi.color-window:                   argb:eeffffff,  #a0d6d5,  #a0d6d5
 rofi.separator-style: dash
 
 !urxvt stuff
-URxvt.font: xft:Noto Mono:size=10
+URxvt.font: xft:SFMono-Regular:size=10
 URxvt.scrollBar: false
 
 ! breeze - terminal colours based on the KDE Breeze palette
